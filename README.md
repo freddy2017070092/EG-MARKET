@@ -12,22 +12,58 @@ and managed
 
 TECHNOLOGY
 
-abaout the technlogy this website will use online technology that allow people to access via online and buying items from thid local page in a short time period and updating the way of buying online items
+abaout the technology this website will use online technology that allow people to access via online and buying items from this local page in a short time period and updating the way of buying online items
+
+TECHNOLOGY USES
+
+-<visaul studio code🌌>
+-<css>
+-<javascritp>
+-<html language🛣>
+<google chrome>
+ <github>
+  
 
 FEATURES
 
 
-After going through this session, you would be able to:
+After going through this session, you would be able to do and have the expirience of:
 
- explain To buy and sell items online
+A.buy and sell items online
 
- creating more works 
+B.unlimited searching
 
- easy access for any sellers or customers
- Knowing more about online business 
- Knowing more about online shopping
+C.unlimited users
+
+D.company transparency and verification
+
+E.email reports and anouncements
+
+F.save your favorite  goods,items and companies
+
+G.multy-part search
+
+H.supply and demand instant market pricing
+
+I.free search
+
+J.save trading center
+
+K.update fashion
+
+L.cheap items
+
+M.creating more works 
+
+N.easy access for any sellers or customers
  
- PLAN FOR WHOLE PROJECT
+O.Knowing more about online business 
+
+P.Knowing more about online shopping
+ 
+
+PLAN FOR WHOLE PROJECT
  
  
- This websites is a very important project  that take part in improvement of business  of the population in my country Equatorial Guinea by A great conclusion to this  website project is the website itself but I want to  demonstrate that the website is functional and it will be very useful for my country mates, the clients, sellers and customers  that will have the possibility to access and buy items from our local page in a short time and developing the way of buying items  via 
+ This websites is a very important project  that take part in improvement of business  of the population in my country Equatorial Guinea
+ by A great conclusion to this  website project is the website itself but I want to  demonstrate that the website is functional and it will be very useful for my country mates, the clients, sellers and customers  that will have the possibility to access and buy items from our local page in a short time and developing the way of buying items  via 
