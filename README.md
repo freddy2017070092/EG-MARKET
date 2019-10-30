@@ -9,6 +9,7 @@ the number of visitors to the site and the ease with which the
 visitors find the required information. An effective and efficient
 website is highly influenced by how well interface is designed
 and managed
+
 TECHNOLOGY
 
 abaout the technlogy this website will use online technology that allow people to access via online and buying items from thid local page in a short time period and updating the way of buying online items
@@ -17,8 +18,11 @@ FEATURES
 
 
 After going through this session, you would be able to:
+
  explain To buy and sell items online
+
  creating more works 
+
  easy access for any sellers or customers
  Knowing more about online business 
  Knowing more about online shopping
