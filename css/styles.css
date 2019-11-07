@@ -4,14 +4,19 @@
   box-sizing: border-box;
 }
 
+html,
 body {
   font-family: Arial, Helvetica, sans-serif;
   color: #444;
 }
 
 .container {
-  max-width: 1100px;
+  max-width: 1400px;
   margin: auto;
+}
+
+a {
+  text-decoration: none;
 }
 
 /* Header */
@@ -48,9 +53,15 @@ body {
   background: #003aa0;
 }
 
+#slide {
+  background: url('/img/egmarket7.jpg') no-repeat center center/cover;
+  /* width: 100vw; */
+  height: 500px;
+}
+
 #search-bar .search {
-  background: #e5e5e5;
-  border: #d6d6d6 0.08rem solid;
+  background: #fccf3e;
+  border: #b68a2c 0.08rem solid;
   border-radius: 0.2rem;
   margin-top: 1rem;
   padding: 1rem;
@@ -85,8 +96,8 @@ body {
 
 /* Showcase */
 #showcase .showcase {
-  background: #e5e5e5;
-  border: #d6d6d6 0.08rem solid;
+  background: rgb(215, 242, 255);
+  border: #ccd5ec 0.08rem solid;
   border-radius: 0.2rem;
   height: 380px;
   margin: 1rem 0;
@@ -119,6 +130,57 @@ body {
   margin: 0.5rem 0;
 }
 
-#showcase .showcase .showcase-content .showcase-items h4 {
-  color: #444;
+#showcase .showcase .showcase-content .showcase-items h4 a {
+  color: #003083;
+}
+
+#showcase .showcase .showcase-content .showcase-items h4 a:hover {
+  font-size: 1.5rem;
+}
+
+.content {
+  background: rgb(215, 242, 255);
+  border-radius: 5px;
+  display: flex;
+  margin: 2rem 0;
+  padding: 1rem;
+}
+
+.content img {
+  display: block;
+}
+
+.content .contents {
+  line-height: 1.5;
+  padding: 3rem;
+}
+
+.content .contents h2 {
+  color: rgb(253, 2, 2);
+  margin: 0.5rem 0;
+}
+
+.content .contents h3 {
+  color: #003083;
+}
+
+.content .contents p {
+  margin: 0.5rem 0;
+}
+
+.text-primary {
+  background: #ff1100;
+  border-radius: 5px;
+  color: #fff;
+  padding: 0.5rem 1rem;
+}
+
+#footer {
+  background: #01004e;
+  color: #fff;
+}
+
+#footer p {
+  padding: 2rem 0;
+  text-align: center;
 }
