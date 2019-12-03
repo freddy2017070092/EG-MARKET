@@ -143,4 +143,4 @@ Pland for week 15- the way to Finish my project
 
 - customer support 
  
-<h1><a href="https://freddy2017070092-eg-market-6.glitch.me/">live link<a></h1>
+<h1><a href="https://freddy2017070092.github.io/EG-MARKET/">live link<a></h1>
