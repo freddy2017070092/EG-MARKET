@@ -103,7 +103,7 @@
                     <div class="col-6 d-inline-block d-xl-none ml-md-0 py-3" style="position: relative; top: 3px;"><a
                             href="#" class="site-menu-toggle js-menu-toggle text-black float-right"><span
                                 class="icon-menu h3"></span></a>
-                       
+
                     </div>
 
                 </div>
@@ -113,34 +113,14 @@
 
         <div class="site-blocks-cover overlay" style="background-image: url(images/hero_2.jpg);" data-aos="fade"
             data-stellar-background-ratio="0.5">
-             
+
         </div>
-        <form action="/registration" style="padding: 7% 39%;
-    position: absolute;
-    bottom: 21%;" method="post">
-
-            <div class="form-row">
-                <h1 style="color: white;font-weight:900;text-align:center">Register Here</h1>
-                <div class="col-lg-12">
-                    <input type="text" name="name" class="form-control" id="name" placeholder="User Name" required>
-                </div>
-            </div>
-            <div class="form-row">
-                <div class="col-lg-12">
-                    <input type="email" name="email" class="form-control" placeholder="Email" id="email" required>
-                </div>
-            </div>
-            <div class="form-row">
-                <div class="col-lg-12"> 
-                    <input type="password" name="password" class="form-control" placeholder="Password" id="password"
-                        required>
-                </div>
-            </div>
-            <div class="form-row">
-                <button type="submit" class="btn btn-primary">Submit</button>
-                <a href="/login" style="text-decoration: none;outline: none; margin-left: 250px;" class="btn btn-primary">Login</a>
-            </div>
-
+        <a href="/users/logout" class="btn btn-primary" style="float: left;margin-left: 40%;">Logout</a>
+        <form action="/delete" method="post">
+            <input type="text" class="form-control" name="id" value="<%= user._id %>" hidden>
+            <button type="submit" class="btn btn-secondary"> Delete Account </button>
+            <h1 style="text-align: center;padding-top:30px">Hi <span style="color:black"><%= user.name %></span> Welcome
+            </h1>
         </form>
 
 
